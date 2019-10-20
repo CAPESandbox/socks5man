@@ -2,6 +2,7 @@ from __future__ import absolute_import
 
 from setuptools import setup
 
+
 setup(
     name="Socks5man",
     version="0.3.0",
